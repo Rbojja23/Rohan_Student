@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: We're Curators
 hide: true
 ---
 
-Hi! My name is [Your Full Name]
+Hi! We're team Curators!
 
 ### Development Environment
 
@@ -29,7 +29,7 @@ Hi! My name is [Your Full Name]
 
 ### Class Progress
 
-> Here is my progress through coding, click to see these online
+> Here is our progress through coding, click to see these online!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
@@ -40,6 +40,11 @@ Hi! My name is [Your Full Name]
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/fullbreakout" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Breakout Game
         </div>
     </a>
 </div>
