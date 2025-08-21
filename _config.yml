@@ -1,9 +1,10 @@
-title: Open Coding 
-description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+title: Student Group Student Repo CSA
+description: "Group Student Repo"
+owner_name: Nikhil Maturi
+github_username: code259
+github_repo: "student"
+baseurl: "/student"
+url: "https://code259.github.io"
 future: true
 remote_theme: jekyll/minima
 minima:
