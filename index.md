@@ -43,7 +43,7 @@ Hi! We're team Curators!
         </div>
     </a>
     <a href="{{site.baseurl}}/fullbreakout" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #0000FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Breakout Game
         </div>
     </a>
