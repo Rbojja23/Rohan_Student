@@ -5,6 +5,10 @@ author: Nikhil, Rohan, Pranav, Aditya, Shriya, Samhita
 permalink: breakoutLesson
 ---
 
+
+## **Breakout Blocks: Interactive Coding Lesson**
+
+### **Lesson Overview Flowchart:**
 ```mermaid
 flowchart TD
     A[Start: Breakout Blocks Lesson] --> B[Lesson 1: Paddle and Base Blocks]

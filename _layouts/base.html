@@ -4,14 +4,19 @@
 
 <!-- Look in _includes/theme for <head> and <body> definitions -->
 {% if site.remote_theme contains 'minima' %}
+  {%- include mermaid.html -%}
   {%- include theme/minima/base.html -%}
 {% elsif site.remote_theme contains 'midnight' %}
+  {%- include mermaid.html -%}
   {%- include theme/midnight/base.html -%}
 {% elsif site.remote_theme contains 'dinky' %}
+  {%- include mermaid.html -%}
   {%- include theme/dinky/base.html -%}
 {% elsif site.remote_theme contains 'time-machine' %}
+  {%- include mermaid.html -%}
   {%- include theme/time-machine/base.html -%}
 {% elsif site.remote_theme contains 'cayman' %}
+  {%- include mermaid.html -%}
   {%- include theme/cayman/base.html -%}
 {% endif %}
 </html>
