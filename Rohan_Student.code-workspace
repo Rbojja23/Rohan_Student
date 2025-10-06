@@ -1,11 +1,7 @@
 {
-	"folders": [
+    "folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../Rohan_Curators/IJava"
 		}
-	],
-	"settings": {}
+	]
 }
